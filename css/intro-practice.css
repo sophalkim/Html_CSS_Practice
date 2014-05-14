@@ -3,7 +3,6 @@ h1.practice-header {
 	text-align: center;
 	color: blue;
 	background-color: green;
-	position: fixed;
-	top: 50px;
-	right: 50px;
+	position: relative;
+	left: 50px;
 }
